@@ -27,7 +27,9 @@ Example: U = {Math, Science, English, History}, A = {Math, English}
 A′ = {Science, History}
 
 
-Collection → A collection is a group of items or elements.
+Collection → Any group of items.
+So, every set is a collection,
+but not every collection is a set — unless it’s well-defined.
 
 ex: Brilliant students → not a set (subjective, not clearly defined)
 Students who scored above 90%" → a set (clearly defined collection)
@@ -40,25 +42,35 @@ Sample Space → All possible outcomes of an experiment.
 ex:{Pass, Fail} outcomes of a quiz
 
 Event → A subset of the sample space.
-ex:A student scores more than 80%.
+ex: You give a surprise quiz.
+Sample Space = {Pass, Fail}
+Event = {Pass} → You’re interested in students who passed.
 
 Basic Outcome → A single possible result.
 ex:“Pass” result from the quiz
 
-Random Variable → Number of students who passed in a class
+Random Variable → A variable that assigns a number to each outcome of a random experiment.
+It transforms outcomes into numbers so we can do calculations like mean, variance, and probability.
+ex:If you run a quiz, and students Pass or Fail, you can assign:
+      Pass = 1
+      Fail = 0
+Number of students who passed in a class.
 
 types of Random Variables
 
-Discrete → Countable outcomes
-Ex: Number of students scoring A grade
+Discrete → Takes only specific, countable values (like 0, 1, 2… not decimals in between) .
+Ex: Number of students who submitted homework.
 
-Continuous → Any value in a range
-Ex: Time taken to complete an exam
+Continuous → Can take any value within a range, including decimals and fractions.
+Ex: Time taken to complete an exam (42.5 minutes).
 
 B. PROBABILILITY
 
 Probability → Measures how likely an event is to happen.it always between 0 and 1.
-ex:Chance that a student scores above 90% in math.
+ex: You randomly pick one student from a class of 10.
+If 3 students scored above 90% in math: 3/10 = 0.3.
+So the chance of picking a student who scored above 90% is 0.3 or 30%.
+
 
 Conditional Probability → Probability of an event, given that another event has already happened.
 ex:Probability of passing the exam given the student attended tutoring sessions.
@@ -72,7 +84,8 @@ ex:Homework submission and test performance
 Bernoulli Theorem → A single experiment with only 2 outcomes: success or failure.
 ex:Student submits or doesn’t submit homework
 
-Binomial Distribution → Probability of getting a certain number of successes in repeated Bernoulli trials.
+Binomial Distribution → The Binomial Distribution gives the probability of getting a certain number of successes in a fixed number of independent and identical trials, where each trial has only two outcomes: success or failure.
+
 ex:Number of students out of 10 who submitted homework
 
 Normal Distribution → Data distributed symmetrically around the mean — follows the bell curve.
@@ -107,7 +120,9 @@ ex: ells how much students’ scores vary in the Science test.
 
 
 Standard Deviation →  The square root of variance — shows spread of data in the same unit as original.
-ex:spread of marks in the same unit as original scores.If average marks = 75 and standard deviation = 10, most students scored between 65 and 85.
+ex:spread of marks in the same unit as original scores.
+
+ex:If average marks = 75 and standard deviation = 10, most students scored between 65 and 85.
 
 
 
@@ -126,7 +141,8 @@ Point-Slope Form → (y - y₁) = m(x - x₁) — tracks student improvement rat
 
 Use → To relate time studied and marks gained
 
-Example → Tuition cost = y = 200 + 50x (₹200 fixed + ₹50 per hour of extra help)
+Example → Tuition cost : y = 1000 + 10x ($1000 fixed + $10 per hour of extra help).
+                         x = how many hours.
 
 MATRICES
 
@@ -178,32 +194,40 @@ Example → A student always topping class — scores improve, but pattern stays
 
 VECTORS & VECTOR SPACES
 
-Vector → A student’s academic profile (marks in subjects + learning direction)
+Vector → A vector is something that has magnitude (size) and direction.
+In real life, it tells how much and in which direction something is happening.
+ex: You can think of a vector as a student’s academic profile — it tells you:
+    How well they scored (magnitude)
+    In which subjects (direction)
+    
+
+
+
+
 
 Example → Student A: 80 in Math, 90 in Science — both value (magnitude) and subject (direction)
 
 Vector Space → Set of all possible student profiles under a grading system
 
-Example → Every possible combination of student scores following grading rules
+Example → Every possible combination of student scores following grading rules.
 
-Additive Closure → Merging study efforts of two students → still valid profile
-
-Commutativity → Combining efforts in group work is order-independent
-
-Associativity → Study sessions grouped differently still result in same total effort
 
 
 Linear Independence, Basis & Rank
 
-Linear Independence → Each student’s subject choice is unique
+Linear Independence → Each student’s subject choice is unique.(set of independent vectors)
 
 Example → One chooses Math, one Science, one English = Independent
 
-Basis → Minimal set of subject experts needed to cover all topics in school
+Basis → smallest set of independent vectors.(Minimal set of subject experts needed to cover all topics in school)
 
-Example → {Math, Science, English} form a basis to cover syllabus
+Ex : Imagine a school has many subjects — History, Biology, Chemistry, Algebra, etc.
+But you want to build the entire school syllabus using only a minimum number of core subject experts.
+That smallest set of subject experts who can cover everything is your basis.
 
-Rank → Number of truly distinct subject specializations among students
+
+
+Rank → Rank is the number of independent vectors in a matrix.How many unique pieces of information you have.
 
 Example → 3 students: one knows Math, one knows Science, third knows Math again → Rank = 2
 
