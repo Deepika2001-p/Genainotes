@@ -179,14 +179,16 @@ Example → Storing and analyzing student scores in a school database
 
 EIGENVALUES & EIGENVECTORS
 
-Eigenvector → A student who maintains their performance level in every test
+Eigenvector → An eigenvector is a special kind of vector that doesn't change direction when a matrix is applied — it only gets stretched.
+ex:Imagine a student who always performs in the same pattern across every exam — their score style doesn’t change: topper student.Even if overall marks go up or down, that pattern stays the same.
+Maybe they’re always strongest in Math, then Science, then English.
 
 Eigenvalue → The performance multiplier (e.g., improving by 2×)
+ex: Let’s say the student’s scores go from:
 
-Right Eigenvector → Student results affected by question paper design
+[80, 90, 85] → to → [160, 180, 170]
 
-Left Eigenvector → School-level performance factors affecting all students
-
+Their pattern didn’t change, just doubled.
 Equation → Av = λv — effect of evaluation system on student performance
 
 Example → A student always topping class — scores improve, but pattern stays the same
@@ -199,17 +201,14 @@ In real life, it tells how much and in which direction something is happening.
 ex: You can think of a vector as a student’s academic profile — it tells you:
     How well they scored (magnitude)
     In which subjects (direction)
-    
-
-
-
-
-
-Example → Student A: 80 in Math, 90 in Science — both value (magnitude) and subject (direction)
+example → Student A: 80 in Math, 90 in Science — both value (magnitude) and subject (direction)
 
 Vector Space → Set of all possible student profiles under a grading system
 
-Example → Every possible combination of student scores following grading rules.
+Example → If a student wrote exam in 3 subjects and scored:
+          [80, 90, 99]
+– and the maximum marks per subject are 100,
+then this vector is within the vector space defined by the grading rules.
 
 
 
