@@ -116,7 +116,7 @@ Mode : The value that appears most frequently in a dataset.
 ex: Most common mark scored in a class test.
 
 Variance: Measures how far the scores are spread from the mean.
-ex: ells how much students’ scores vary in the Science test.
+ex: tells how much students’ scores vary in the Science test.
 
 
 Standard Deviation →  The square root of variance — shows spread of data in the same unit as original.
