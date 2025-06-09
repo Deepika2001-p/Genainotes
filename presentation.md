@@ -256,7 +256,7 @@ Full Angle → 12:00 to 12:00 — full school day completed
     
                                 MODULE 3 
 
-CENTRALITY : It measures how important a node is in a network.
+CENTRALITY : It measures how important a node is in a graph.
 
 ex: how student (or) teacher important in a school.
 
