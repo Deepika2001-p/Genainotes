@@ -116,7 +116,7 @@ Mode : The value that appears most frequently in a dataset.
 ex: Most common mark scored in a class test.
 
 Variance: Measures how far the scores are spread from the mean.
-ex: ells how much students’ scores vary in the Science test.
+ex: tells how much students’ scores vary in the Science test.
 
 
 Standard Deviation →  The square root of variance — shows spread of data in the same unit as original.
@@ -256,7 +256,7 @@ Full Angle → 12:00 to 12:00 — full school day completed
     
                                 MODULE 3 
 
-CENTRALITY : It measures how important a node is in a network.
+CENTRALITY : It measures how important a node is in a graph.
 
 ex: how student (or) teacher important in a school.
 
