@@ -43,18 +43,22 @@ common errors:
 
 OOPS CONCEPTS : 
                    
-| Concept          | Definition                                               | Real-World Use Case                                    |
-+------------------+---------------------------------------------------------+------------------------------------------------------------+
-| Encapsulation    | Hiding internal data and controlling access via methods  | Protecting marks, passwords, banking details               |
-| Abstraction      | Showing only essential features, hiding the background   | ATM interface, APIs, app buttons hide internal logic       |
-| Inheritance      | One class (child) inherits from another (parent)         | Developer inherits from Employee, Car from Vehicle         |
-| Polymorphism     | Same method behaves differently in different classes     | `area()` for Circle vs Rectangle, `play()` for media types |
-| Class            | Blueprint for creating objects                           | `class Student:` defines structure                         |
-| Object           | Instance of a class with actual data                     | `s1 = Student("Asha")`                                     |
-| Method           | Function inside a class operating on data                | `get_marks()`, `calculate_salary()`                        |
-| Constructor      | `__init__` – runs when object is created                 | Initialize name, ID, etc. automatically                    |
-| Destructor       | `__del__` – runs when object is deleted                  | Cleanup: closing files, freeing memory                     |
-+------------------+----------------------------------------------------------+----------------------------------------------------------+
+
+OOPs Concepts Summary
+
+Concept        : Definition                                         : Real-World Use Case
+---------------------------------------------------------------------------------------------
+Encapsulation  : Hides internal data using methods                  : Protecting marks/passwords
+Abstraction    : Shows only essential features                      : ATM screen hides logic
+Inheritance    : Child class inherits from parent class             : Developer inherits Employee
+Polymorphism   : Same method acts differently across classes        : area() in Circle vs Square
+Class          : Blueprint for creating objects                     : class Student:
+Object         : Instance of a class                                : s1 = Student("Asha")
+Method         : Function inside a class                            : get_marks(), greet()
+Constructor    : __init__ method, runs when object is created       : Auto set name, age
+Destructor     : __del__ method, runs when object is deleted        : Close files, cleanup memory
+
+
 
 constructor : A constructor is a special method in Python called __init__() that automatically runs when an object is created. It’s used to initialize values (set up data) for the object.
 
