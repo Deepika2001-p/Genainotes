@@ -20,15 +20,6 @@ Data Type    | Definition                        | Real-Time Example            
  dict       | Key-value pair collection          | Student info with labels            | student = {"name": "Ravi", "marks": 92}    | Mutable, keys must be unique
  set        | Unordered collection of unique     | Unique grades received              | grades = {85, 90, 85} → {85, 90}           | Mutable, no duplicates, unordered
 
-| Data Type | Definition                        | Real-Time Example             | Python Code Example              | Properties                                     |
-| --------- | --------------------------------- | ----------------------------- | -------------------------------- | ---------------------------------------------- |
-| `int`     | Whole numbers without decimals    | Number of students in a class | `students = 30`                  | ✅ Immutable<br>✅ Allows duplicates             |
-| `float`   | Decimal numbers                   | Student's average marks       | `average = 85.6`                 | ✅ Immutable<br>✅ Allows duplicates             |
-| `str`     | Sequence of characters (text)     | Student name or subject title | `name = "Asha"`                  | ✅ Immutable<br>✅ Allows duplicates             |
-| `bool`    | Boolean values: `True` or `False` | Pass/fail status              | `is_passed = True`               | ✅ Immutable<br>✖ Not meaningful for duplicates |
-| `list`    | Ordered, mutable collection       | Subjects taken by a student   | `subjects = ["Math", "Science"]` | ✅ Mutable<br>✅ Allows duplicates               |
-| `tuple`   | Ordered, immutable collection     | Academic semesters            | `semesters = ("Spring", "Fall")` | ✅ Immutable<br>✅ Allows duplicates             |
-| `dict`    | Key-value pairs                   | Student info with labels      | \`student = {"name": "R          |                                                |
 
 tuple indexing:
 a specific element in a tuple using its position number.
