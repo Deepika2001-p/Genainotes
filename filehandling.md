@@ -46,17 +46,18 @@ OOPS CONCEPTS :
 
 OOPs Concepts Summary
 
-Concept        : Definition                                         : Real-World Use Case
----------------------------------------------------------------------------------------------
-Encapsulation  : Hides internal data using methods                  : Protecting marks/passwords
-Abstraction    : Shows only essential features                      : ATM screen hides logic
-Inheritance    : Child class inherits from parent class             : Developer inherits Employee
-Polymorphism   : Same method acts differently across classes        : area() in Circle vs Square
-Class          : Blueprint for creating objects                     : class Student:
-Object         : Instance of a class                                : s1 = Student("Asha")
-Method         : Function inside a class                            : get_marks(), greet()
-Constructor    : __init__ method, runs when object is created       : Auto set name, age
-Destructor     : __del__ method, runs when object is deleted        : Close files, cleanup memory
+| Concept        | Definition                                         | Real-World Use Case                                  |
+|----------------|----------------------------------------------------|------------------------------------------------------|
+| Encapsulation  | Hides internal data using methods                  | Protecting marks, passwords, banking systems         |
+| Abstraction    | Shows only essential features                      | ATM, APIs, buttons hide internal logic               |
+| Inheritance    | Child class inherits from parent class             | Developer inherits from Employee, Vehicle from Car   |
+| Polymorphism   | Same method acts differently across classes        | area() in Circle vs Square                           |
+| Class          | Blueprint for creating objects                     | class Student:                                       |
+| Object         | Instance of a class                                | s1 = Student("Asha")                                 |
+| Method         | Function inside a class                            | get_marks(), greet()                                 |
+| Constructor    | __init__ runs when object is created               | Automatically set name, age                          |
+| Destructor     | __del__ runs when object is deleted                | Cleanup: close files, release memory                 |
+
 
 
 
