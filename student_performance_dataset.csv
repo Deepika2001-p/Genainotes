@@ -1,0 +1,201 @@
+Student_ID,Gender,Parental_Education,Math_Score,Reading_Score,Writing_Score,Test_Preparation_Course
+S001,Male,Master,63.0,82.0,84.0,Completed
+S002,Female,PhD,72.0,70.0,74.0,Completed
+S003,Male,Master,73.0,72.0,75.0,Completed
+S004,Male,High School,63.0,60.0,66.0,None
+S005,Male,PhD,89.0,72.0,66.0,Completed
+S006,Female,High School,75.0,69.0,66.0,None
+S007,Male,PhD,58.0,76.0,75.0,None
+S008,Male,PhD,77.0,62.0,66.0,Completed
+S009,Male,Bachelor,60.0,78.0,74.0,Completed
+S010,Female,High School,78.0,90.0,94.0,None
+S011,Male,Master,82.0,71.0,81.0,None
+S012,Male,Master,62.0,77.0,67.0,None
+S013,Male,High School,80.0,80.0,84.0,Completed
+S014,Male,Master,74.0,67.0,67.0,None
+S015,Female,Master,78.0,75.0,49.0,Completed
+S016,Male,High School,89.0,72.0,60.0,None
+S017,Female,PhD,68.0,73.0,50.0,None
+S018,Female,High School,62.0,63.0,67.0,Completed
+S019,Female,PhD,61.0,72.0,71.0,None
+S020,Male,Master,62.0,78.0,89.0,Completed
+S021,Female,Master,69.0,89.0,75.0,Completed
+S022,Male,Master,73.0,84.0,69.0,None
+S023,Female,Bachelor,73.0,98.0,80.0,Completed
+S024,Female,PhD,78.0,63.0,47.0,Completed
+S025,Female,Bachelor,70.0,82.0,74.0,None
+S026,Female,Bachelor,85.0,74.0,79.0,Completed
+S027,Female,High School,67.0,98.0,55.0,Completed
+S028,Female,Bachelor,97.0,62.0,84.0,Completed
+S029,Female,High School,76.0,62.0,75.0,None
+S030,Female,High School,61.0,65.0,66.0,Completed
+S031,Male,Bachelor,59.0,47.0,78.0,None
+S032,Male,PhD,75.0,66.0,96.0,None
+S033,Female,PhD,68.0,63.0,73.0,Completed
+S034,Female,PhD,77.0,74.0,74.0,Completed
+S035,Female,PhD,75.0,76.0,66.0,Completed
+S036,Male,PhD,69.0,95.0,62.0,None
+S037,Female,Bachelor,62.0,83.0,80.0,Completed
+S038,Male,Bachelor,55.0,65.0,62.0,Completed
+S039,Male,Master,66.0,61.0,72.0,Completed
+S040,Male,PhD,79.0,78.0,66.0,Completed
+S041,Male,Bachelor,72.0,56.0,76.0,Completed
+S042,Male,Master,58.0,94.0,75.0,None
+S043,Female,PhD,72.0,86.0,82.0,None
+S044,Female,High School,74.0,66.0,65.0,Completed
+S045,Female,Master,61.0,51.0,68.0,Completed
+S046,Female,Bachelor,72.0,88.0,60.0,Completed
+S047,Female,High School,71.0,71.0,66.0,Completed
+S048,Male,High School,59.0,87.0,75.0,None
+S049,Female,High School,74.0,53.0,79.0,Completed
+S050,Female,Master,76.0,65.0,61.0,None
+S051,Male,Bachelor,81.0,72.0,81.0,None
+S052,Female,High School,81.0,73.0,86.0,Completed
+S053,Male,PhD,56.0,67.0,76.0,None
+S054,Female,High School,61.0,79.0,92.0,None
+S055,Male,High School,75.0,59.0,62.0,None
+S056,Female,Master,75.0,70.0,57.0,None
+S057,Female,Master,75.0,73.0,51.0,Completed
+S058,Male,Bachelor,100.0,78.0,87.0,Completed
+S059,Male,PhD,76.0,81.0,78.0,None
+S060,Male,Master,81.0,59.0,70.0,Completed
+S061,Male,High School,80.0,54.0,74.0,Completed
+S062,Male,Bachelor,77.0,87.0,59.0,Completed
+S063,Male,High School,67.0,76.0,98.0,Completed
+S064,Male,High School,78.0,63.0,72.0,Completed
+S065,Male,Master,62.0,91.0,72.0,None
+S066,Female,Bachelor,68.0,73.0,79.0,Completed
+S067,Female,PhD,65.0,86.0,76.0,Completed
+S068,Male,PhD,71.0,73.0,73.0,Completed
+S069,Female,Master,93.0,97.0,62.0,Completed
+S070,Female,Master,51.0,93.0,76.0,None
+S071,Female,Bachelor,77.0,69.0,92.0,None
+S072,Female,PhD,54.0,84.0,86.0,None
+S073,Male,PhD,65.0,80.0,89.0,None
+S074,Female,PhD,81.0,88.0,65.0,Completed
+S075,Male,High School,71.0,60.0,60.0,None
+S076,Female,PhD,59.0,80.0,70.0,Completed
+S077,Female,High School,63.0,85.0,72.0,Completed
+S078,Female,Bachelor,77.0,51.0,83.0,Completed
+S079,Male,High School,63.0,58.0,52.0,Completed
+S080,Female,Bachelor,72.0,48.0,88.0,Completed
+S081,Male,PhD,70.0,69.0,69.0,None
+S082,Female,PhD,63.0,81.0,66.0,None
+S083,Male,Bachelor,91.0,90.0,60.0,None
+S084,Female,Master,76.0,73.0,53.0,None
+S085,Male,Bachelor,50.0,92.0,80.0,Completed
+S086,Male,Master,72.0,55.0,72.0,None
+S087,Female,High School,63.0,52.0,57.0,Completed
+S088,Male,High School,79.0,71.0,57.0,None
+S089,Female,High School,62.0,77.0,67.0,Completed
+S090,Female,PhD,69.0,72.0,89.0,Completed
+S091,Female,High School,75.0,47.0,68.0,None
+S092,Female,Master,79.0,71.0,54.0,Completed
+S093,Female,High School,58.0,56.0,68.0,Completed
+S094,Female,Bachelor,67.0,80.0,68.0,None
+S095,Female,Bachelor,65.0,76.0,41.0,Completed
+S096,Female,PhD,63.0,61.0,70.0,None
+S097,Female,Bachelor,88.0,66.0,68.0,None
+S098,Female,Master,74.0,59.0,79.0,None
+S099,Female,High School,57.0,71.0,91.0,Completed
+S100,Male,PhD,79.0,83.0,83.0,Completed
+S101,Male,High School,91.0,60.0,68.0,Completed
+S102,Female,High School,80.0,78.0,59.0,None
+S103,Female,Master,55.0,66.0,99.0,Completed
+S104,Female,Bachelor,65.0,62.0,72.0,None
+S105,Female,Bachelor,83.0,71.0,71.0,None
+S106,Female,High School,63.0,60.0,71.0,Completed
+S107,Female,PhD,74.0,65.0,73.0,None
+S108,Female,Bachelor,78.0,58.0,69.0,Completed
+S109,Female,PhD,61.0,96.0,65.0,Completed
+S110,Male,Bachelor,69.0,72.0,65.0,Completed
+S111,Female,PhD,38.0,64.0,71.0,Completed
+S112,Male,Master,60.0,75.0,65.0,Completed
+S113,Female,PhD,67.0,71.0,63.0,None
+S114,Female,Master,58.0,69.0,72.0,None
+S115,Male,Master,86.0,79.0,68.0,None
+S116,Female,PhD,56.0,81.0,88.0,Completed
+S117,Male,Master,66.0,66.0,42.0,Completed
+S118,Female,High School,71.0,65.0,83.0,Completed
+S119,Female,Master,84.0,69.0,85.0,None
+S120,Male,Bachelor,56.0,44.0,48.0,Completed
+S121,Female,PhD,82.0,54.0,67.0,None
+S122,Male,High School,70.0,88.0,67.0,None
+S123,Female,PhD,60.0,92.0,56.0,Completed
+S124,Male,Bachelor,75.0,69.0,62.0,Completed
+S125,Male,Bachelor,72.0,79.0,59.0,None
+S126,Female,Bachelor,64.0,76.0,90.0,Completed
+S127,Female,Master,71.0,100.0,81.0,None
+S128,Male,Master,66.0,85.0,85.0,Completed
+S129,Female,PhD,71.0,70.0,79.0,Completed
+S130,Female,PhD,77.0,61.0,59.0,None
+S131,Female,High School,86.0,53.0,65.0,Completed
+S132,Male,High School,58.0,74.0,76.0,None
+S133,Male,PhD,91.0,63.0,58.0,Completed
+S134,Male,Master,50.0,55.0,79.0,None
+S135,Male,Bachelor,68.0,64.0,68.0,None
+S136,Male,PhD,76.0,59.0,67.0,Completed
+S137,Male,High School,73.0,92.0,79.0,None
+S138,Male,Master,64.0,83.0,76.0,Completed
+S139,Male,PhD,68.0,72.0,67.0,Completed
+S140,Male,PhD,65.0,90.0,84.0,Completed
+S141,Female,Master,64.0,73.0,59.0,None
+S142,Male,PhD,78.0,62.0,78.0,None
+S143,Female,Master,74.0,90.0,78.0,Completed
+S144,Female,Bachelor,63.0,78.0,68.0,Completed
+S145,Female,Master,79.0,60.0,75.0,None
+S146,Male,Master,73.0,70.0,57.0,Completed
+S147,Male,Master,78.0,61.0,81.0,Completed
+S148,Male,PhD,76.0,55.0,69.0,None
+S149,Male,PhD,62.0,83.0,65.0,Completed
+S150,Female,Master,64.0,95.0,83.0,None
+S151,Male,PhD,77.0,55.0,63.0,Completed
+S152,Male,High School,76.0,79.0,56.0,None
+S153,Male,High School,70.0,64.0,54.0,Completed
+S154,Male,PhD,71.0,66.0,78.0,Completed
+S155,Male,PhD,83.0,65.0,57.0,None
+S156,Female,Master,64.0,62.0,90.0,Completed
+S157,Male,Bachelor,75.0,73.0,48.0,None
+S158,Female,PhD,68.0,62.0,90.0,Completed
+S159,Male,High School,68.0,75.0,73.0,None
+S160,Female,Master,81.0,71.0,70.0,None
+S161,Male,PhD,78.0,69.0,65.0,None
+S162,Male,High School,78.0,61.0,75.0,None
+S163,Female,High School,83.0,65.0,71.0,Completed
+S164,Female,Bachelor,70.0,81.0,83.0,Completed
+S165,Female,Master,77.0,78.0,72.0,None
+S166,Male,Master,67.0,60.0,73.0,None
+S167,Female,Bachelor,73.0,73.0,67.0,None
+S168,Male,Bachelor,69.0,81.0,70.0,Completed
+S169,Male,Master,71.0,52.0,74.0,Completed
+S170,Female,Master,76.0,79.0,52.0,Completed
+S171,Female,PhD,62.0,64.0,56.0,Completed
+S172,Male,PhD,91.0,79.0,79.0,None
+S173,Male,Bachelor,60.0,63.0,73.0,None
+S174,Female,PhD,58.0,50.0,69.0,None
+S175,Female,High School,82.0,52.0,71.0,Completed
+S176,Female,PhD,78.0,73.0,75.0,Completed
+S177,Male,PhD,76.0,75.0,65.0,Completed
+S178,Male,High School,76.0,61.0,62.0,None
+S179,Male,Bachelor,70.0,80.0,73.0,None
+S180,Male,High School,61.0,52.0,60.0,Completed
+S181,Male,PhD,71.0,71.0,75.0,None
+S182,Male,Bachelor,63.0,57.0,52.0,Completed
+S183,Female,PhD,80.0,64.0,82.0,Completed
+S184,Male,High School,69.0,73.0,76.0,None
+S185,Male,High School,62.0,62.0,74.0,Completed
+S186,Male,PhD,67.0,67.0,82.0,None
+S187,Female,Master,74.0,84.0,89.0,Completed
+S188,Male,Master,64.0,65.0,82.0,None
+S189,Male,High School,62.0,82.0,51.0,None
+S190,Female,High School,72.0,58.0,57.0,None
+S191,Male,Master,72.0,78.0,64.0,Completed
+S192,Male,Master,65.0,89.0,71.0,Completed
+S193,Male,PhD,65.0,42.0,77.0,None
+S194,Male,PhD,72.0,62.0,63.0,None
+S195,Male,Master,56.0,79.0,73.0,Completed
+S196,Female,PhD,56.0,70.0,63.0,Completed
+S197,Female,PhD,63.0,76.0,64.0,Completed
+S198,Female,Bachelor,68.0,65.0,56.0,None
+S199,Male,PhD,73.0,73.0,61.0,Completed
+S200,Male,High School,85.0,70.0,56.0,Completed
