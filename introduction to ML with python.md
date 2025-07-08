@@ -13,11 +13,11 @@ Example: Predicting house prices based on area and number of rooms.
 Machine learning usecases
 | Domain           | Use-Case Example                            |
 | ---------------- | ------------------------------------------- |
-| **Healthcare**   | Predict disease based on patient data       |
-| **Finance**      | Fraud detection in credit card transactions |
-| **Retail**       | Recommend products to customers (Amazon)    |
-| **Education**    | Predict if a student is at risk of failing  |
-| **Self-driving** | Cars recognizing pedestrians and road signs |
+|   Healthcare     | Predict disease based on patient data       |
+|   Finance        | Fraud detection in credit card transactions |
+|   Retail         | Recommend products to customers (Amazon)    |
+|   Education      | Predict if a student is at risk of failing  |
+|   Self-driving   | Cars recognizing pedestrians and road signs |
 
 Machine learning process flow
 1.Define the problem
@@ -52,9 +52,9 @@ House Prices: Deploy a model on a real estate website to suggest prices for new 
 machine learning categories
 | Category             | What It Means                                | Example                                  |
 | -------------------- | -------------------------------------------- | ---------------------------------------- |
-| **Supervised ML**    | Train with labeled data                      | Predict house price from size & location |
-| **Unsupervised ML**  | No labels; find patterns                     | Group customers by buying behavior       |
-| **Reinforcement ML** | Learn by trial & error (rewards & penalties) | Teaching a robot to walk                 |
+|   Supervised ML      | Train with labeled data                      | Predict house price from size & location |
+|   Unsupervised ML    | No labels; find patterns                     | Group customers by buying behavior       |
+|   Reinforcement ML   | Learn by trial & error (rewards & penalties) | Teaching a robot to walk                 |
 
 Linear regression : It is a machine learning algorithm used to predict a continuous value based on input value.
                     Fits a straight line (y = mx + c) to data points.
