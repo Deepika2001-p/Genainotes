@@ -179,16 +179,19 @@ Example → Storing and analyzing student scores in a school database
 
 EIGENVALUES & EIGENVECTORS
 
-Eigenvector → An eigenvector is a special kind of vector that doesn't change direction when a matrix is applied — it only gets stretched.
-ex:Imagine a student who always performs in the same pattern across every exam — their score style doesn’t change: topper student.Even if overall marks go up or down, that pattern stays the same.
-Maybe they’re always strongest in Math, then Science, then English.
+Eigenvector → Think of a matrix as a transformation (like rotating, stretching, or squishing vectors).
 
-Eigenvalue → The performance multiplier (e.g., improving by 2×)
-ex: Let’s say the student’s scores go from:
+When you apply this transformation to most vectors, their direction changes.
+But there are special vectors whose direction stays the same even after the transformation—they might get stretched or squished, but they don’t turn.
 
-[80, 90, 85] → to → [160, 180, 170]
+These special vectors are called Eigenvectors.
 
-Their pattern didn’t change, just doubled.
+The amount they get stretched/squished is the Eigenvalue.
+ex:Google PageRank (Search Ranking)
+Google models the internet as a giant matrix.
+Each website is a node, and links between them form a matrix.
+The eigenvector of this matrix gives the importance of each page (the one with the largest eigenvalue = most important).
+
 Equation → Av = λv — effect of evaluation system on student performance
 
 Example → A student always topping class — scores improve, but pattern stays the same
